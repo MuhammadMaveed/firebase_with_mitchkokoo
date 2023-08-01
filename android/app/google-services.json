@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186894021016",
+    "project_id": "fir-with-mitchkoko-aac55",
+    "storage_bucket": "fir-with-mitchkoko-aac55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186894021016:android:c62982a060d9e845297bed",
+        "android_client_info": {
+          "package_name": "com.example.firebase_with_mitchkokoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186894021016-pksqihoeknpv8ao4fossc8b7dtebmo8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGV7yQ20Vm8G5ABltXMkN5B39e0eU2Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186894021016-pksqihoeknpv8ao4fossc8b7dtebmo8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
